@@ -8,7 +8,7 @@
   <!-- Header -->
   <header class="bg-blue-800 text-white">
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-bold">Mavado Academy School Makerere</h1>
+      <h1 class="text-2xl font-bold"> Marvin  Mavado Academy School Makerere</h1>
       <nav>
         <ul class="flex space-x-6">
           <li><a href="#home" class="hover:underline">Home</a></li>
@@ -23,7 +23,7 @@
   <!-- Hero Section -->
   <section id="home" class="bg-blue-600 text-white py-20">
     <div class="container mx-auto px-4 text-center">
-      <h2 class="text-4xl font-bold mb-4">Welcome to Mavado Academy School Makerere</h2>
+      <h2 class="text-4xl font-bold mb-4">Welcome to Marvin Mavado Academy School Makerere</h2>
       <p class="text-lg mb-6">Empowering young minds with quality education and holistic development.</p>
       <a href="#contact" class="bg-yellow-500 text-black px-6 py-3 rounded-lg font-semibold hover:bg-yellow-600">Get in Touch</a>
     </div>
@@ -34,9 +34,9 @@
     <div class="container mx-auto px-4">
       <h2 class="text-3xl font-bold text-center mb-8">About Us</h2>
       <p class="text-lg text-gray-700 max-w-3xl mx-auto">
-        Mavado Academy School Makerere is dedicated to providing a nurturing and innovative learning environment. 
+    Marvin Mavado Academy School Makerere is dedicated to providing a nurturing and innovative learning environment. 
         Established in the heart of Makerere, our school focuses on academic excellence, character development, 
-        and preparing students for a dynamic world.
+        and preparing students for a dynamic world. Developed By Kaya Marvin And Ssemanda Calvin 
       </p>
     </div>
   </section>
@@ -78,7 +78,7 @@
       <div class="max-w-lg mx-auto">
         <p class="text-gray-600 mb-4"><strong>Email:</strong> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="98f1f6fef7d8f5f9eef9fcf7f9fbf9fcfdf5e1b6f9fbb6edff">[email&#160;protected]</a></p>
         <p class="text-gray-600 mb-4"><strong>Phone:</strong> +256 756 714 068 789</p>
-        <p class="text-gray-600 mb-4"><strong>Address:</strong> Mavado Academy School, Makerere, Kampala, Uganda</p>
+        <p class="text-gray-600 mb-4"><strong>Address:</strong>  Marvin Mavado Academy School, Makerere, Kampala, Uganda</p>
       </div>
     </div>
   </section>
@@ -86,7 +86,7 @@
   <!-- Footer -->
   <footer class="bg-blue-800 text-white py-6">
     <div class="container mx-auto px-4 text-center">
-      <p>&copy; 2025 Mavado Academy School Makerere. All rights reserved.</p>
+      <p>&copy; 2025 Marvin Mavado Academy School Makerere. All rights reserved.</p>
     </div>
   </footer>
 </body>
