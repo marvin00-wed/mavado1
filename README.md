@@ -77,7 +77,7 @@
       </p>
       <div class="max-w-lg mx-auto">
         <p class="text-gray-600 mb-4"><strong>Email:</strong> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="98f1f6fef7d8f5f9eef9fcf7f9fbf9fcfdf5e1b6f9fbb6edff">[email&#160;protected]</a></p>
-        <p class="text-gray-600 mb-4"><strong>Phone:</strong> +256 756 714 068 789</p>
+        <p class="text-gray-600 mb-4"><strong>Phone:</strong> +256 756714068</p>
         <p class="text-gray-600 mb-4"><strong>Address:</strong> Mavado Academy School, Makerere, Kampala, Uganda</p>
       </div>
     </div>
